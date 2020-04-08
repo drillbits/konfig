@@ -1,4 +1,4 @@
-module github.com/kelseyhightower/konfig
+module github.com/drillbits/konfig
 
 go 1.12
 
